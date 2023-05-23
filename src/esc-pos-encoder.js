@@ -114,6 +114,7 @@ const codepageMappings = {
     'cp866': 0x11,
     'cp852': 0x12,
     'cp858': 0x13,
+    'cp874': 0x15,
   },
 
   citizen: {
